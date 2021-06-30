@@ -1,0 +1,13 @@
+body {
+  background-color: #232020;
+  color:white;
+}
+.showErrors {
+  display:none;
+}
+.output h2 {
+  margin:auto;
+}
+.card {
+  background-color: #553739;
+}
